@@ -10,7 +10,7 @@ Suggest Map
 
 
 
-.. image:: ../../../../../figures/suggestmap.png
+.. image:: ../../../../../figures/suggestmap.jpg
      :scale: 80
 
 Configuration

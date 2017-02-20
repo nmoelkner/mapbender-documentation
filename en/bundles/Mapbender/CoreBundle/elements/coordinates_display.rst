@@ -13,7 +13,7 @@ The coordinates are dependent on the selected spatial reference system which may
 Configuration
 =============
 
-.. image:: ../../../../../figures/coordinates_display_configuration.png
+.. image:: ../../../../../figures/coordinates_display_configuration.jpg
      :scale: 80
 
 * **Show title label:** Enable or disable text (title).

@@ -6,13 +6,13 @@ Map (Karte)
 MapQuery/OpenLayers basierte Karte.
 Es müssen die Einheiten, der Start und der Max Bereich (extent), die Maßstäbe und die unterstützten Projektionen angegeben werden.
 
-.. image:: ../../../../../figures/de/map.png
+.. image:: ../../../../../figures/de/map.jpg
      :scale: 80
 
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/de/map_configuration.png
+.. image:: ../../../../../figures/de/map_configuration.jpg
      :scale: 80
 
 * **Title:** Titel des Elements. Dieser wird in der Layouts Liste angezeigt und ermöglicht, mehrere Button-Elemente voneinander zu unterscheiden. Der Titel wird außerdem neben dem Button angezeigt, wenn "Beschriftung anzeigen" aktiviert ist.

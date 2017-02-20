@@ -96,7 +96,7 @@ Um anzupassen, ob jemand Zugriff auf das Element hat, muss zunächst auf den Sch
 
 Ein gesetzter Haken neben dem entsprechenden Nutzeraccount erlaubt dem jeweiligen Nutzer den Zugriff. Der Schlüssel wird nach erfolgreicher Rechtevergabe rot. Wenn Sie nun den Cursor über den Schlüssel halten, sehen Sie die Namen der berechtigten Nutzer in einem Pop-Up Fenster.
 
-.. image:: ../../../../en/bundles/FOM/UserBundle/element_security_key_popup.png
+.. image:: ../../../../en/bundles/FOM/UserBundle/element_security_key_popup.jpg
 
 
 Login Fehler

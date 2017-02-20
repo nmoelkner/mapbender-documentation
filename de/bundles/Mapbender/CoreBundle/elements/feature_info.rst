@@ -5,13 +5,13 @@ Feature Info (Information)
 
 Dieses Element stellt die Infoabfrage bereit, die mit WMS Services funktioniert.
 
-.. image:: ../../../../../figures/feature_info.png
+.. image:: ../../../../../figures/feature_info.jpg
      :scale: 80
 
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/de/feature_info_configuration.png
+.. image:: ../../../../../figures/de/feature_info_configuration.jpg
      :scale: 80
 
 
@@ -41,12 +41,12 @@ Mit der Option "Original zeigen" wird die Original-Darstellung des FeatureInfo R
 
 Beispiel Original:
 
-.. image:: ../../../../../figures/feature_info_original.png
+.. image:: ../../../../../figures/feature_info_original.jpg
      :scale: 80
 
 Beispiel gestyled:
 
-.. image:: ../../../../../figures/feature_info_not_original.png
+.. image:: ../../../../../figures/feature_info_not_original.jpg
      :scale: 80             
 
 
@@ -58,12 +58,12 @@ Mit dem Schalter "Type" können die Responses mehrerer Dienste in unterschiedlic
 
 Beispiel Tabs:
 
-.. image:: ../../../../../figures/feature_info_tabs.png
+.. image:: ../../../../../figures/feature_info_tabs.jpg
      :scale: 80
 
 Beispiel Accordion:
 
-.. image:: ../../../../../figures/feature_info_accordion.png
+.. image:: ../../../../../figures/feature_info_accordion.jpg
      :scale: 80
 
 
@@ -85,7 +85,7 @@ Für das Element wird ein Button verwendet. Siehe das Kapitel :doc:`button` für
 * **Group:** featureinfo
 * **Deactivate:** deactivate
 
-.. image:: ../../../../../figures/feature_info_button.png
+.. image:: ../../../../../figures/feature_info_button.jpg
      :scale: 80
 
 

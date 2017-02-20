@@ -11,7 +11,7 @@ Es kann außerdem ein Button definiert werden, der sich auf eine Webseite oder e
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/de/button_configuration.png
+.. image:: ../../../../../figures/de/button_configuration.jpg
      :scale: 80
 
 * **Beschriftung anzeigen (Show button label):** Schaltet die Beschriftung des Buttons an/aus.

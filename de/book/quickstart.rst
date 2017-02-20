@@ -181,14 +181,14 @@ Exportieren und Importieren von Anwendungen und Daten
 ================================================================================
 Sie können eine Anwendung als  JSON oder YAML über ``Anwendungen --> Exportieren (Applications --> Export)``exportieren. Für den Export können ein oder mehrere Anwendungen ausgewählt werden. Die Datenquellen können ebenfalls beim Export ausgegeben werden.
 
-  .. image:: ../../figures/mapbender3_application_export.png
+  .. image:: ../../figures/mapbender3_application_export.jpg
      :scale: 80
 
 
 Die Export-Datei beinhaltet alle Definitionen, die zum Aufbau der Anwendung (Datenquellen) erforderlich sind. Die Export-Datei kann über ``Anwendungen --> Importieren (Applications --> Import)`` in andere Mapbender3 Installationen oder in die gleiche Installation geladen werden.
 
 
-  .. image:: ../../figures/mapbender3_application_import.png
+  .. image:: ../../figures/mapbender3_application_import.jpg
      :scale: 80
 
 
@@ -229,7 +229,7 @@ Ein WMS liefert ein XML, wenn das getCapabilities-Dokument angefordert wird. Die
 
 #. Nach erfolgreicher Registrierung des Dienstes zeigt Mapbender eine Übersicht der Informationen an, die der Dienst geliefert hat.
 
-  .. image:: ../../figures/mapbender3_wms_load.png
+  .. image:: ../../figures/mapbender3_wms_load.jpg
      :scale: 80
 
 
@@ -266,7 +266,7 @@ Nach dem erfolgreichen Hochladen eines WMS möchten Sie diesen zu einer Anwendun
 #. Sie können die Reihenfolge der Dienste und der Ebenen über drag & drop ändern.
 
 
-  .. image:: ../../figures/mapbender3_add_source_to_application.png
+  .. image:: ../../figures/mapbender3_add_source_to_application.jpg
      :scale: 80
 
 Konfiguration von Diensten
@@ -280,7 +280,7 @@ Sie können Dienste für Ihre Anwendung konfigurieren. Vielleicht möchten Sie n
 #. Sie können die Reihenfolge der Layer über drag & drop ändern.
 
 
-.. image:: ../../figures/mapbender3_wms_application_settings.png
+.. image:: ../../figures/mapbender3_wms_application_settings.jpg
   :scale: 80
 
 
@@ -313,7 +313,7 @@ hängen. Es können auch feste Werte übermittelt werden.
 Das folgende Beispiel zeigt die Definition eines Parameters „group“, der als
 Inhalt die Gruppe des gerade in Mapbender angemeldeten Nutzers weitergibt.
 
-.. image:: ../../figures/mapbender3_vendor_specific_parameter.png
+.. image:: ../../figures/mapbender3_vendor_specific_parameter.jpg
            :scale: 80
 
 * Type: „single“, „multiple“, „interval“ (multiple Values in Dimensions)
@@ -349,7 +349,7 @@ Fügen Sie Elemente zu Ihrer Anwendung hinzu
 =================================================
 Mapbender bietet eine Reihe von Elementen (Modulen) an, aus denen Sie Ihre Anwendung aufbauen können. Ihre Anwendung verfügt wiederum über verschiedene Bereiche (Toolbar, Sidepane, Content, Footer), die Sie mit Elementen bestücken können.
 
-  .. image:: ../../figures/mapbender3_application_add_element.png
+  .. image:: ../../figures/mapbender3_application_add_element.jpg
      :scale: 80
 
 #. Wählen Sie ``Anwendungen -->`` |mapbender3-button-edit| ``Editier-Button --> Layouts --> Button`` |mapbender3-button-add|, um eine Übersicht über die Mapbender3-Elemente zu erhalten.
@@ -367,7 +367,7 @@ Mapbender bietet eine Reihe von Elementen (Modulen) an, aus denen Sie Ihre Anwen
 Jetzt sollten sie eine Idee davon haben, wie einfach es ist eine Mapbender-Anwendung ohne Codes zu verändern.
 
 
-  .. image:: ../../figures/mapbender3_application_elements.png
+  .. image:: ../../figures/mapbender3_application_elements.jpg
      :scale: 80
 
 Beispiele für Elemente, die Mapbender3 anbietet:
@@ -439,7 +439,7 @@ Benutzer anlegen
 #. Weitere Angaben zum Benutzer können im Reiter ``Profil`` erfolgen.
 
 
-  .. image:: ../../figures/mapbender3_create_user.png
+  .. image:: ../../figures/mapbender3_create_user.jpg
      :scale: 80 
 
 
@@ -463,7 +463,7 @@ Benutzer einer Gruppe zuweisen
 #. Weisen Sie einen Benutzer über ``Benutzer -->`` |mapbender3-button-edit| ``Editier-Button--> Gruppen`` einer Gruppe zu.
 
 
-  .. image:: ../../figures/mapbender3_assign_user_to_group.png
+  .. image:: ../../figures/mapbender3_assign_user_to_group.jpg
      :scale: 80
  
 
@@ -481,7 +481,7 @@ Mapbender3 bietet verschiedene Rechte an, die Sie vergeben können. Diese beruhe
 
 Weisen Sie einem Benutzer über ``Benutzer --> Benutzer bearbeiten --> Sicherheit (Users --> Edit your User --> Security) `` Rechte zu.
 
-  .. image:: ../../figures/mapbender3_roles.png
+  .. image:: ../../figures/mapbender3_roles.jpg
      :scale: 80 
 
 
@@ -503,7 +503,7 @@ Zuweisen einer Anwendung zu einem Benutzer/einer Gruppe
 
 #. Melden Sie sich unter der neuen Benutzerbezeichnung an
 
-  .. image:: ../../figures/mapbender3_security.png
+  .. image:: ../../figures/mapbender3_security.jpg
      :scale: 80
 
 
@@ -544,7 +544,7 @@ Format für die Übergabe eines einzelnen Punktes:
 
 * http://demo.mapbender3.org/application/mapbender_user?poi[point]=363374,5621936&poi[label]=Hello World&poi[scale]=5000
 
-  .. image:: ../../figures/mapbender3_position_poi_label.png
+  .. image:: ../../figures/mapbender3_position_poi_label.jpg
      :scale: 80
 
 

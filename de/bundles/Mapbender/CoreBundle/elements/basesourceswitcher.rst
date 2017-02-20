@@ -7,7 +7,7 @@ Mit diesem Element kann zwischen vordefinierten Themen (BaseSources) z.B. Hinter
 
 Zu jeder Datenquelle kann eine Gruppe definiert werden. Alle Definitionen einer Gruppe werden als Dropdown-Liste angezeigt, wobei der Gruppenname als übergeordneter Eintrag erscheint.
 
-.. image:: ../../../../../figures/basesourceswitcher.png
+.. image:: ../../../../../figures/basesourceswitcher.jpg
      :scale: 80
 
 Konfiguration
@@ -19,7 +19,7 @@ Die Konfiguration geschieht in zwei Schritten:
 #. Hinzufügen von Themen mit einer oder mehrerer Quellen und optionaler Definition einer Gruppe
 
 
-.. image:: ../../../../../figures/basesourceswitcher_configuration.png
+.. image:: ../../../../../figures/basesourceswitcher_configuration.jpg
      :scale: 80
      
 

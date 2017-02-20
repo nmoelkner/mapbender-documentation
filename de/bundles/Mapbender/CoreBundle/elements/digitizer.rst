@@ -15,7 +15,7 @@ In Zusammenhang mit der Digitalisierung können für die Erfassung von dazugehö
 
     
 
-.. image:: ../../../../../figures/digitizer.png
+.. image:: ../../../../../figures/digitizer.jpg
      :scale: 80
 
 Folgende Optionen stehen für den Aufbau von Formularen zur Verfügung:
@@ -35,13 +35,13 @@ Folgende Optionen stehen für den Aufbau von Formularen zur Verfügung:
   * Hilfetexte
 
 
-.. image:: ../../../../../figures/digitizer_with_tabs.png
+.. image:: ../../../../../figures/digitizer_with_tabs.jpg
      :scale: 80
 
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/digitizer_configuration.png
+.. image:: ../../../../../figures/digitizer_configuration.jpg
      :scale: 80
 
 Das Element kann in der Sidepane eingebettet werden.
@@ -540,7 +540,7 @@ Definition von Pflichtfeldern
 Definition eines Textfelds mit Datumsauswahl
 --------------------------------------------------
 
-.. image:: ../../../../../figures/digitizer_datepicker.png
+.. image:: ../../../../../figures/digitizer_datepicker.jpg
      :scale: 80
 
 .. code-block:: yaml

@@ -6,7 +6,7 @@ HTML-Element
 Über das HTML-Element kann generisches HTML an einer beliebigen Stelle in der Anwendung definiert werden.
 Im generischen HTML stehen zur Verfügung folgende Variablen: "application" (Entity Application), "entity" (Entity HTMLElement) und "configuration". Damit kann beispielsweise ein Bild in die Anwendung eingefügt werden. 
 
-.. image:: ../../../../../figures/html_result_application.png
+.. image:: ../../../../../figures/html_result_application.jpg
      :scale: 80
 
 
@@ -20,7 +20,7 @@ Einfügen eines Bildes in Ihre Anwendung:
     <img src='http://mapbender3.org/sites/default/files/OSGeo_project.png' height='60px'>
 
 
-.. image:: ../../../../../figures/de/html.png
+.. image:: ../../../../../figures/de/html.jpg
      :scale: 80
 
 * **Title:** Titel des HTML-Elements. Dieser wird in der Layouts Liste angezeigt und ermöglicht, mehrere HTML-Elemente voneinander zu unterscheiden. 

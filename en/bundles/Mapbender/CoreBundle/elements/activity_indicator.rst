@@ -13,7 +13,7 @@ widget in the css-file ``fom//src//FOM//CoreBundle//Resources//public//css/front
 Configuration
 =============
 
-.. image:: ../../../../../figures/activity_indicator_configuration.png
+.. image:: ../../../../../figures/activity_indicator_configuration.jpg
      :scale: 80
 
 * **Title:** Title of the element.

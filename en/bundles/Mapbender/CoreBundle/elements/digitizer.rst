@@ -15,7 +15,7 @@ You can define very complex formss for the attributes. This follows the capabili
 
     
 
-.. image:: ../../../../../figures/digitizer.png
+.. image:: ../../../../../figures/digitizer.jpg
      :scale: 80
 
 The following option for the construction of the forms are available:
@@ -35,13 +35,13 @@ The following option for the construction of the forms are available:
   * Help textes
 
 
-.. image:: ../../../../../figures/digitizer_with_tabs.png
+.. image:: ../../../../../figures/digitizer_with_tabs.jpg
      :scale: 80
 
 Configuration
 =============
 
-.. image:: ../../../../../figures/digitizer_configuration.png
+.. image:: ../../../../../figures/digitizer_configuration.jpg
      :scale: 80
 
 You can use the element in the sidepane.
@@ -549,7 +549,7 @@ An i-Icon will be displayed. On mouse-over the defined infotext will appear. Inf
 Definition of a datepicker
 --------------------------------------------------
 
-.. image:: ../../../../../figures/digitizer_datepicker.png
+.. image:: ../../../../../figures/digitizer_datepicker.jpg
      :scale: 80
 
 .. code-block:: yaml

@@ -90,7 +90,7 @@ Next to every element is a security key. If you click on the key, you can adjust
 
 After setting specific access rights, the security key turns red. If you hover over the key with the cursor, you will see the names of the users who have rights to the element.
 
-.. image:: ../../../../en/bundles/FOM/UserBundle/element_security_key_popup.png
+.. image:: ../../../../en/bundles/FOM/UserBundle/element_security_key_popup.jpg
 
 
 Login Failures
