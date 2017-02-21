@@ -7,17 +7,17 @@ SimpleSearch bietet eine Einfeldsuche oder Schlagwortsuche. Die Suchanfrage erfo
 
 Die Geometriedaten können in WKT oder in GeoJSON-Format codiert werden.
 
-.. image:: ../../../../../figures/simplesearch.png
+.. image:: ../../../../../figures/simplesearch.jpg
      :scale: 80
 
 
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/de/simplesearch_configuration_a.png
+.. image:: ../../../../../figures/de/simplesearch_configuration_a.jpg
      :scale: 80
 
-.. image:: ../../../../../figures/de/simplesearch_configuration_b.png
+.. image:: ../../../../../figures/de/simplesearch_configuration_b.jpg
      :scale: 80
 
 

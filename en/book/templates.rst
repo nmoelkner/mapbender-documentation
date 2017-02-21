@@ -269,7 +269,7 @@ Your file could be named like this: src/Workshop/DemoBundle/Resources/public/dem
 
 The result of these few lines of css will look like this:
 
-.. image:: ../../figures/workshop_application.png
+.. image:: ../../figures/workshop_application.jpg
      :scale: 80
 
 When you open your new application a css-file will be created at:

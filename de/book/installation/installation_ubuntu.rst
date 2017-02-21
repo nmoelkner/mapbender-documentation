@@ -123,7 +123,7 @@ Prüfen Sie, ob der Alias erreichbar ist:
 * http://localhost/mapbender3/config.php
 
 
-.. image:: ../../../figures/mapbender3_symfony_check_configphp.png
+.. image:: ../../../figures/mapbender3_symfony_check_configphp.jpg
      :scale: 80
 
 

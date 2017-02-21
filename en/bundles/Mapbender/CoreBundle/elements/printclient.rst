@@ -13,19 +13,19 @@ The print element uses print templates, which can be modified individually. In t
 
 Mapbender3 contains already a collection of print templates (LibreOffice Draw files in formats A4 to A0), which can be modified individually.
 
-.. image:: ../../../../../figures/print_client.png
+.. image:: ../../../../../figures/print_client.jpg
      :scale: 80
 
 The PrintClient can be used both as a dialog and an element as part of the sidebar. If it is part of the sidebar, you have to activate the Print Frame first to start the print. If you have finished, you have to deactivate the Print Frame again to use the map again as usual (when used as a dialog this happens automatically by opening and closing the dialog window).
 
-.. image:: ../../../../../figures/print_client_sidebar.png
+.. image:: ../../../../../figures/print_client_sidebar.jpg
      :scale: 80
 
 
 Configuration
 =============
 
-.. image:: ../../../../../figures/print_client_configuration.png
+.. image:: ../../../../../figures/print_client_configuration.jpg
      :scale: 80
 
 You need a button to show this element or you can use it in the sidepane. See :doc:`button` for inherited configuration options.
@@ -112,7 +112,7 @@ Create your individual templates
 ================================
 To create an individual print template use an existing print template odg-file or create a new LibreOffice Draw file. Your template can have fixed objects like your logo, copyright or print information. In addition you have to create a layer for the dynamic elements like map, overview, northarrow, scale, date and optional fields. The dynamic layer is an additional non printable layer in your LibreOffice Draw file. Add this layer with **Menu -> Add -> Layer -> define a name for the layer and choose the option not printable**.
 
-.. image:: ../../../../../figures/print_template_odg.png
+.. image:: ../../../../../figures/print_template_odg.jpg
      :scale: 80
 
 Define areas for the map, northarrow, scale, date and optional fields. 
@@ -133,7 +133,7 @@ You can define optional fields in the element definition (like title, comment, e
 
 When creating dynamic text each property must have the appropriate name, for example the filed **comment1** must have the name **comment1** in the Open Office Draw file. For naming fields, it is not enough to edit the content of the textfield. You need to edit the object name. Selct the textfiled and go to **menue edit --> name...** to change the name.
 
-.. image:: ../../../../../figures/de/print_template_name.png
+.. image:: ../../../../../figures/de/print_template_name.jpg
     :scale: 80
 
 

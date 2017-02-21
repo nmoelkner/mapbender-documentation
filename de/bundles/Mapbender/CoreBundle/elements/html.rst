@@ -10,7 +10,7 @@ Im generischen HTML stehen zur Verfügung folgende Variablen: "application" (Ent
      :scale: 80
 
 
-Configuration
+Konfiguration
 =============
 
 Einfügen eines Bildes in Ihre Anwendung:

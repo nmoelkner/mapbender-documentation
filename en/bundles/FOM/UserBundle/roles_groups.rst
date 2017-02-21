@@ -13,7 +13,7 @@ Groups are database entities which can be assigned to users on an individual
 base. They also are assigned multiple roles. Therefore their primary use is to
 collect roles which are assigned to every user of that group.
 
-.. image:: users.png
+.. image:: users.jpg
 
 Future
 ------

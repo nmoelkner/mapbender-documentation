@@ -5,13 +5,13 @@ Navigation Toolbar (Zoombar) (Navigationswerkzeug)
 
 Das Navigationswerkzeug bietet die Funktionen Zoomen und Verschieben an, ähnlich wie bei OpenLayers.
 
-.. image:: ../../../../../figures/de/zoom_bar.png
+.. image:: ../../../../../figures/de/zoom_bar.jpg
      :scale: 80
 
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/de/zoom_bar_configuration.png
+.. image:: ../../../../../figures/de/zoom_bar_configuration.jpg
      :scale: 80
 
 * **Verschiebbar:** Navigationswerkzeug ist verschiebbar oder nicht, Standard ist true

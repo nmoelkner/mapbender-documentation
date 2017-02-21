@@ -5,12 +5,12 @@ Layerset
 
 Ein Layerset ist ein logischer Container, die einen oder mehrere Layerset-Instanzen (WMS Dienste) beinhalten kann. Ein typisches Beispiel sind die Unterscheidung in den Layerset "main" für die Hauptkarte und "overview" für die Übersichtskarte. Sie können weitere Layersets definieren, die optional in der Karte dargestellt werden oder auch im Layertree als eigener Ordner erscheinen (thematische Layer).
 
-.. image:: ../../../../../figures/mapbender3_service_edit.png
+.. image:: ../../../../../figures/mapbender3_service_edit.jpg
            :scale: 80
 
 Layerset-Instances enthalten die Optionen, wie ein WMS angesprochen werden kann: das Bildformat, das Infoformat, Exceptionformat, die Maßstäbe für die einzelnen Layer und vieles mehr.
 
-.. image:: ../../../../../figures/mapbender3_wms_application_settings.png
+.. image:: ../../../../../figures/mapbender3_wms_application_settings.jpg
            :scale: 80
       
 

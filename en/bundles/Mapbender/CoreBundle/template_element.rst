@@ -5,13 +5,13 @@
 
 <Put short description - 5-6 sentences - here>
 
-.. image:: ../../../../../figures/nameoftheelement.png
+.. image:: ../../../../../figures/nameoftheelement.jpg
      :scale: 80
 
 Configuration
 =============
 
-.. image:: ../../../../../figures/nameoftheelement_configuration.png
+.. image:: ../../../../../figures/nameoftheelement_configuration.jpg
      :scale: 80
 
 YAML-Definition:

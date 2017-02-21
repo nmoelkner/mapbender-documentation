@@ -79,7 +79,7 @@ the layerid and serviceid in the specific application, namely in the
 layerset and there in a layer. Each layer has an icon with three small dots
 on the right side. Click on the icon and a popup window will appear.
 
-.. image:: ../../../../../figures/wms_instance_layer_id.png
+.. image:: ../../../../../figures/wms_instance_layer_id.jpg
      :scale: 80
 
 The first value lists the internal SourceID and SourceLayerId (31-591). The

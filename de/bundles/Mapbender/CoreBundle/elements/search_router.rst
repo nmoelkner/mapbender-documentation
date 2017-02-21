@@ -5,13 +5,13 @@ Search Router
 
 Dieses Element erzeugt ein Suchformular mit Trefferausgabe. Das Formular und die Trefferausgabe sind dabei konfigurierbar. Zur Zeit wird eine generische SQL Suche unterstützt, weitere Entwicklungen werden folgen (z.B. WFS, Solr). 
 
-.. image:: ../../../../../figures/search_router.png
+.. image:: ../../../../../figures/search_router.jpg
      :scale: 80
 
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/de/search_router_configuration.png
+.. image:: ../../../../../figures/de/search_router_configuration.jpg
      :scale: 80
 
 Die Suche greift auf Tabellen in einer Datenbank zu. Dafür muss die Datenbank in Mapbender bekannt gegeben werden. Informationen dazu finden sich unter http://doc.mapbender3.org/de/book/database.html

@@ -5,13 +5,13 @@ Line/Area Ruler
 
 Ruler to draw a line/area and display length/area in a dialog.
 
-.. image:: ../../../../../figures/ruler.png
+.. image:: ../../../../../figures/ruler.jpg
      :scale: 80
 
 Configuration
 =============
 
-.. image:: ../../../../../figures/ruler_configuration.png
+.. image:: ../../../../../figures/ruler_configuration.jpg
      :scale: 80
 
 * **Title:** Title of the element. The title will be listed in "Layouts" and allows to distinguish between different buttons. It will be indicated if "Show label" is activated.

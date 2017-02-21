@@ -16,7 +16,7 @@ Basis zugewiesen werden können. Sie können auch mehreren Rollen zugewiesen
 werden. Daher liegt ihr Nutzen in der Sammlung von Rollen, die jedem Nutzer
 einer Gruppe zugeordnet werden sollen.
 
-.. image:: users.png
+.. image:: users.jpg
 
 
 

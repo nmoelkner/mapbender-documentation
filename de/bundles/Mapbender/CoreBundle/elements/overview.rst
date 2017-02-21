@@ -9,7 +9,7 @@ Die Übersichtskarte kann fixiert sein, oder sie ist zoomfähig, d.h. wenn in de
 Es kann auch definiert werden, ob die Übersichtskarte nach dem Öffnen der Applikation minimiert oder maximiert ist.
 
 
-.. image:: ../../../../../figures/overview.png
+.. image:: ../../../../../figures/overview.jpg
      :scale: 80
 
 Konfiguration
@@ -17,12 +17,12 @@ Konfiguration
 
 Die Übersichtskarte muss in der Konfiguration unterhalb der Karte (map) platziert werden.
 
-.. image:: ../../../../../figures/overview_configuration_dependency_map.png
+.. image:: ../../../../../figures/overview_configuration_dependency_map.jpg
    :scale: 80
 
 Der Konfigurationsdialog:
 
-.. image:: ../../../../../figures/de/overview_configuration.png
+.. image:: ../../../../../figures/de/overview_configuration.jpg
      :scale: 80
 
 

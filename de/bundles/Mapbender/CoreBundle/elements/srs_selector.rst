@@ -7,13 +7,13 @@ Nach der Auswahl eines räumlichen Referenzsystems (SRS) ändert sich das räuml
 Beachten Sie: Die Selektbox bietet nur die SRS an, die für das `Kartenelement <../elements/map.html>`_ definiert wurden.
 
 
-.. image:: ../../../../../figures/de/srs_selector.png
+.. image:: ../../../../../figures/de/srs_selector.jpg
      :scale: 100
 
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/de/srs_selector_configuration.png
+.. image:: ../../../../../figures/de/srs_selector_configuration.jpg
      :scale: 80
 
 * **Title:** Titel des Elements. Dieser wird in der Layouts Liste angezeigt und ermöglicht, mehrere Button-Elemente voneinander zu unterscheiden. Der Titel wird außerdem neben dem Button angezeigt, wenn "Beschriftung anzeigen" aktiviert ist.

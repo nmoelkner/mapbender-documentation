@@ -184,7 +184,7 @@ und prüfen Sie, ob der Alias erreichbar ist:
 * http://localhost/mapbender3/config.php
 
 
-.. image:: ../../../figures/mapbender3_symfony_check_configphp.png
+.. image:: ../../../figures/mapbender3_symfony_check_configphp.jpg
      :scale: 80 
 
 Passen Sie die Mapbender3 Konfigurationsdatei parameters.yml (app/config/parameters.yml) an und definieren Sie die Datenbank, die Sie erzeugen möchten. Mehr Informationen dazu finden Sie im Kapitel `Konfiguration der Datenbank <../database.html>`_.

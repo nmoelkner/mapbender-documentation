@@ -78,7 +78,7 @@ jeweiligen Anwendung und zwar im Layerset und dort in einem Layer. Jeder
 Layer besitzt ein Icon mit drei Punkten auf der rechten Seite. Klicken Sie
 auf die drei Punkte des Layers und ein Popupfenster erscheint.
 
-.. image:: ../../../../../figures/wms_instance_layer_id.png
+.. image:: ../../../../../figures/wms_instance_layer_id.jpg
      :scale: 80
 
 Der erste Wert nenn die interne SourceID und SourceLayerId (31-591). Der

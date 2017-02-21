@@ -5,22 +5,22 @@
 :Thanks: mapbender-user list
 :Date: |date| 
 
-  .. |mapbender3-button-show| image:: ../../figures/mapbender3_button_show.png
+  .. |mapbender3-button-show| image:: ../../figures/mapbender3_button_show.jpg
 
-  .. |mapbender3-button-copy| image:: ../../figures/mapbender3_button_copy.png
+  .. |mapbender3-button-copy| image:: ../../figures/mapbender3_button_copy.jpg
 
-  .. |mapbender3-button-publish| image:: ../../figures/mapbender3_button_publish.png
+  .. |mapbender3-button-publish| image:: ../../figures/mapbender3_button_publish.jpg
 
-  .. |mapbender3-button-edit| image:: ../../figures/mapbender3_button_edit.png
+  .. |mapbender3-button-edit| image:: ../../figures/mapbender3_button_edit.jpg
 
-  .. |mapbender3-button-delete| image:: ../../figures/mapbender3_button_delete.png
+  .. |mapbender3-button-delete| image:: ../../figures/mapbender3_button_delete.jpg
 
-  .. |mapbender3-button-add| image:: ../../figures/mapbender3_button_add.png
+  .. |mapbender3-button-add| image:: ../../figures/mapbender3_button_add.jpg
 
-  .. |mapbender3-button-key| image:: ../../figures/mapbender3_button_key.png
+  .. |mapbender3-button-key| image:: ../../figures/mapbender3_button_key.jpg
 
 
-.. image:: ../../_static/mapbender3_logo.png
+.. image:: ../../_static/mapbender3_logo.jpg
   :scale: 100 %
   :alt: project logo
   :align: right
@@ -59,7 +59,7 @@ Dieser Quickstart beschreibt, wie Sie:
 
 Eine Mapbender Anwendung kann wie folgt aussehen:
 
-  .. image:: ../../figures/mapbender3_basic_application.png
+  .. image:: ../../figures/mapbender3_basic_application.jpg
      :scale: 80
 
 
@@ -79,7 +79,7 @@ Starten Sie Mapbender
 
 Falls Sie Schwierigkeiten haben, Mapbender zu starten, überprüfen Sie ob der Apache Web Server und die PostgreSQL Datenbank laufen.
 
-  .. image:: ../../figures/mapbender3_app_dev.png
+  .. image:: ../../figures/mapbender3_app_dev.jpg
      :scale: 80
 
 
@@ -87,7 +87,7 @@ Starten Sie Mapbender im Entwicklungsmodus über app_dev.php
 ==============================================================
 Symfony bietet einen Entwicklungsmodus mit einer Reihe von Informationen über die Anwendung an (Logging, Fehlermeldungen, Datenbankabfragen, Speicherverbrauch, Zeit und mehr). Dieser Modus ist nur über localhost verfügbar.
 
-  .. image:: ../../figures/mapbender3_app_dev.png
+  .. image:: ../../figures/mapbender3_app_dev.jpg
      :scale: 80
 
 #. Start des Entwicklungsmodus: http://localhost/mapbender3/app_dev.php
@@ -109,7 +109,7 @@ Die Willkommensseite
 
 #. Sie können sich mit dem Benutzer anmelden, der während der Installation erzeugt wurde. Er kann ``root`` heißen mit dem Kennwort ``root`` (Dies ist der Standardbenutzer/Kennwort nach der Installation von Mapbender auf der OSGeo-Live. Bitte ändern Sie das Kennwort, wenn Sie eine Produktivumgebung betreiben. Löschen Sie den Benutzer ``root`` nicht.).
   
-  .. image:: ../../figures/mapbender3_welcome.png
+  .. image:: ../../figures/mapbender3_welcome.jpg
      :scale: 80
 
 Nach erfolgreicher Anmeldung werden Sie zur ``Mapbender Administration`` weiter geleitet.
@@ -131,7 +131,7 @@ Die Anwendungsübersicht bietet folgende Funktionen:
  * mit dem Filtertextfeld kann nach Anwendungen gesucht werden
 
 
-  .. image:: ../../figures/mapbender3_application_overview.png
+  .. image:: ../../figures/mapbender3_application_overview.jpg
      :scale: 80
 
 
@@ -158,7 +158,7 @@ Erstellen Sie eine neue Anwendung, indem Sie einen Titel, eine Beschreibung sowi
 Ihre Anwendung wurde erstellt. Jetzt brauchen Sie Elemente (z.B. Kartenelement, Navigation, Legende) und Kartendienste, um die Anwendung mit Leben zu füllen.
 
 
-  .. image:: ../../figures/mapbender3_create_application.png
+  .. image:: ../../figures/mapbender3_create_application.jpg
      :scale: 80
 
 

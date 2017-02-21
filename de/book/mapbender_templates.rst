@@ -10,7 +10,7 @@ Lernen Sie die Mapbender Templates, die bei der Installation mitgeliefert werden
 Fullscreen Template
 *********************
 
-.. image:: ../../figures/mapbender_fullscreen.png
+.. image:: ../../figures/mapbender_fullscreen.jpg
      :scale: 50
 
 Schauen Sie sich die Demo zum Mapbender Fullscreen Template an: http://demo.mapbender3.org/application/mapbender_user
@@ -32,7 +32,7 @@ Fullscreen Alternative Template
 **********************************
 
 ..
-  .. image:: ../../figures/mapbender_mobile.png
+  .. image:: ../../figures/mapbender_mobile.jpg
      :scale: 50
   Schauen Sie sich die Demo zum Mapbender Fullscreen Alternative Template an: http://demo.mapbender3.org/
 
@@ -53,7 +53,7 @@ Classic Template
 *********************
 
 ..
-  .. image:: ../../figures/mapbender_mobile.png
+  .. image:: ../../figures/mapbender_mobile.jpg
      :scale: 80
   Schauen Sie sich die Demo zum Mapbender Classic Template an: http://demo.mapbender3.org/
 
@@ -72,7 +72,7 @@ Specials:
 Mobile template
 *********************
 
-.. image:: ../../figures/mapbender_mobile.png
+.. image:: ../../figures/mapbender_mobile.jpg
      :scale: 80
 
 Schauen Sie sich die Demo zum Mapbender Mobile Template an: http://release.mapbender3.org/application/mapbender_mobile

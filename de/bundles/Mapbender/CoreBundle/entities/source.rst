@@ -7,7 +7,7 @@ Source (Datenquelle)
 
 Informationen zum Einbinden von Diensten und der Nutzung in Mapbender finden Sie im `Quickstart Dokument <../../../../book/quickstart.html#laden-von-web-map-services>`_.
 
-.. image:: ../../../../../figures/de/entities/source_wms.png
+.. image:: ../../../../../figures/de/entities/source_wms.jpg
      :scale: 80
 
 * **Dienst URL**: URL zum Capabilities-Dokument des WMS Dienstes (z.B.: ``http://osm-demo.wheregroup.com/service?SERVICE=WMS&Version=1.3.0&REQUEST=GetCapabilities``)
@@ -24,5 +24,5 @@ Informationen zum Einbinden von Diensten und der Nutzung in Mapbender finden Sie
 
   Dienste, die ohne Validitätsüberprüfung registriert wurden, erscheinen in der Diensteliste mit einem Ausrufezeichen. In vielen Fällen funktionieren diese Dienste mit Mapbender3, obwohl sie eigene Schemata eingebunden haben.
 
-  .. image:: ../../../../../figures/entities/source_not_valid.png
+  .. image:: ../../../../../figures/entities/source_not_valid.jpg
        :scale: 80

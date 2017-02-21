@@ -12,14 +12,14 @@ You can add configurations from the selectbox to your application.
 **Notice:** that you need the element WMC Loader to use this functionality.
 
 
-.. image:: ../../../../../figures/wmc_list.png
+.. image:: ../../../../../figures/wmc_list.jpg
      :scale: 80
 
 
 Configuration
 =============
 
-.. image:: ../../../../../figures/wmc_list_configuration.png
+.. image:: ../../../../../figures/wmc_list_configuration.jpg
      :scale: 80
 
 

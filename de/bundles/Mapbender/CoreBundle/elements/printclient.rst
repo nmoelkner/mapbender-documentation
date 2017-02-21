@@ -13,12 +13,12 @@ Der Druck greift auf Druckvorlagen zu, die individuell angepasst werden können.
 
 Mapbender3 bringt bereits eine Kollektion von Druckvorlagen (LibreOffice Draw Dateien in den Formaten A4 bis A0) mit, die individuell angepasst werden können.
 
-.. image:: ../../../../../figures/de/print_client.png
+.. image:: ../../../../../figures/de/print_client.jpg
      :scale: 80
 
 Der PrintClient kann sowohl als Dialog als auch als Element in der Sidebar verwendet werden. Wenn er sich in der Sidebar befindet, müssen Sie zuerst den Druckrahmen aktivieren, um den Druck starten zu können. Wenn Sie fertig sind, müssen Sie den Druckrahmen wieder deaktivieren, damit die Karte wieder wie gehabt genutzt werden kann (im Dialog geschieht dies alles durch das Öffnen und Schließen des Dialogfensters).
 
-.. image:: ../../../../../figures/de/print_client_sidebar.png
+.. image:: ../../../../../figures/de/print_client_sidebar.jpg
      :scale: 80
 
 
@@ -26,7 +26,7 @@ Der PrintClient kann sowohl als Dialog als auch als Element in der Sidebar verwe
 Konfiguration
 =============
 
-.. image:: ../../../../../figures/de/print_client_configuration.png
+.. image:: ../../../../../figures/de/print_client_configuration.jpg
      :scale: 80
 
 Das Element kann über einen Button aufgerufen werden oder in der Sidepane (Seitenleiste) verwendet werden. Siehe unter :doc:`button` für die Konfiguration.
@@ -114,7 +114,7 @@ Erstellen eines individuellen Vorlage
 =====================================
 Um eine individuelle Druckvorlage zu erstellen, kopieren Sie eine vorhandene Druckvorlage (ODG-Datei) und bearbeiten diese. Sie können auch eine neue Libre Office Draw-Datei erzeugen. Die Vorlage kann feste Objekte wie ein Logo, ein Copyright oder Druckinformationen beinhalten. Zusätzlich muss eine Ebene für die dynamischen Elemente wie die Karte, die Übersichtskarte, der Nordpfeil, der Maßstab, das Datum und optionale Felder erstellt werden. Die dynamische Ebene ist eine zusätzliche nicht druckbare Ebene in der Libre Office Draw-Datei. Fügen Sie die Ebene in Libre Office Draw folgendermaßen hinzu: **Menü: Einfügen -> Ebene... -> definieren Sie einen Namen für die Ebene und wählen Sie die Option nicht druckbar**.
 
-.. image:: ../../../../../figures/print_template_odg.png
+.. image:: ../../../../../figures/print_template_odg.jpg
      :scale: 80
 
 Definieren Sie Bereiche für die Karte, den Nordpfeil, den Maßstab, das Datum und mehr sowie für optionale Felder. 
@@ -135,7 +135,7 @@ Sie könne optionale Felder über die Element-Konfiguration definieren (wie Tite
 
 Bei der Erstellung dynamischer Texte müssen die jeweiligen Objekte den passenden Namen haben, z.B. das Kommentarfeld **comment1** muss auch in der Vorlage **comment1** heißen. Zum Bennenen der Objektfelder reicht es nicht den Textinhalt anzupassen. Die Felder müssen selektiert und über **Menü Ändern --> Name...** angepasst werden. 
 
-.. image:: ../../../../../figures/de/print_template_name.png
+.. image:: ../../../../../figures/de/print_template_name.jpg
     :scale: 80
 
 

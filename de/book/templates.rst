@@ -233,7 +233,7 @@ Ihre css-Datei könnte wie folgt heißen: src/Workshop/DemoBundle/Resources/publ
 
 Das Ergebnis der wenigen Zeilen css sieht dann so aus:
 
-.. image:: ../../figures/workshop_application.png
+.. image:: ../../figures/workshop_application.jpg
      :scale: 80
 
 Beim Laden der neuen Anwendung wird eine css-Datei im web/assets-Verzeichnis angelegt:

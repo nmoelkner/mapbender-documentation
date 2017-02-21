@@ -41,4 +41,4 @@ Security Identities
 ACEs can be associated with either users or roles by means of encapsulating both
 with an security identity.
 
-.. image:: acl.png
+.. image:: acl.jpg

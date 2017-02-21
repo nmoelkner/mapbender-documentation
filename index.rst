@@ -45,7 +45,7 @@ Find out more
   :align: right
   :target: http://www.ohloh.net/p/mapbender?ref=sample
    
-.. image:: http://mapbender3.org/sites/default/files/OSGeo_project.png
+.. image:: http://mapbender3.org/sites/default/files/OSGeo_project.jpg
   :scale: 80 %
   :alt: Mapbender is a Project of the OSGeo Foundation
   :align: center

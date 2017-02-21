@@ -10,7 +10,7 @@ Get to know the Mapbender templates. Mapbender offers some templates ready to us
 Fullscreen Template
 *******************
 
-.. image:: ../../figures/mapbender_fullscreen.png
+.. image:: ../../figures/mapbender_fullscreen.jpg
      :scale: 50
 
 View a demo of the Mapbender Fullscreen Template http://demo.mapbender3.org/application/mapbender_user
@@ -33,7 +33,7 @@ Fullscreen Alternative Template
 
 ..
 
- .. image:: ../../figures/mapbender_mobile.png
+ .. image:: ../../figures/mapbender_mobile.jpg
      :scale: 50
 
 View a demo of the Mapbender Fullscreen Alternative Template http://demo.mapbender3.org
@@ -56,7 +56,7 @@ Classic Template
 
 ..
 
- .. image:: ../../figures/mapbender_mobile.png
+ .. image:: ../../figures/mapbender_mobile.jpg
      :scale: 80
 
 View a demo of the Mapbender Classic Template http://demo.mapbender3.org
@@ -76,7 +76,7 @@ Specials:
 Mobile Template
 ***************
 
-.. image:: ../../figures/mapbender_mobile.png
+.. image:: ../../figures/mapbender_mobile.jpg
      :scale: 80
 
 View a demo of the Mapbender Mobile Template http://release.mapbender3.org/application/mapbender_mobile
