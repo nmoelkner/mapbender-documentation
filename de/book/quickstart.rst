@@ -20,7 +20,7 @@
   .. |mapbender3-button-key| image:: ../../figures/mapbender3_button_key.jpg
 
 
-.. image:: ../../_static/mapbender3_logo.jpg
+.. image:: ../../_static/mapbender3_logo.png
   :scale: 100 %
   :alt: project logo
   :align: right
